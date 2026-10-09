@@ -1,37 +1,29 @@
 class Solution {
-    void markrow(vector<vector<int>>& matrix, int r) {
-        int m = matrix[0].size();
-
-        for (int j = 0; j < m; j++) {
-            if (matrix[r][j] != 0)
-                matrix[r][j] = -999999;  //test  case issue
-        }
-    }
-
-    void markcol(vector<vector<int>>& matrix, int c) {
-        int n = matrix.size();
-
-        for (int i = 0; i < n; i++) {
-            if (matrix[i][c] != 0)
-                matrix[i][c] = -999999;
-        }
-    }
-
 public:
-    void setZeroes(vector<vector<int>>& matrix) {
-        for (int i = 0; i < matrix.size(); i++) {
-            for (int j = 0; j < matrix[i].size(); j++) {
-                if (matrix[i][j] == 0) {
-                    markrow(matrix, i);
-                    markcol(matrix, j);
+    void setZeroes(vector<vector<int>>& arr) {
+        int m = arr.size(),n = arr[0].size();
+        vector<bool>row(m,false);
+        vector<bool>col(n,false);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(arr[i][j] == 0) {
+                    row[i] = true;
+                    col[j] = true;
                 }
             }
         }
-
-        for (int i = 0; i < matrix.size(); i++) {
-            for (int j = 0; j < matrix[i].size(); j++) {
-                if (matrix[i][j] == -999999)
-                    matrix[i][j] = 0;
+        for(int i=0;i<row.size();i++){
+            if(row[i]== true){
+                for(int j=0;j<n;j++){
+                    arr[i][j] = 0;
+                }
+            }
+        }
+        for(int j=0;j<col.size();j++){
+            if(col[j]== true){
+                for(int i=0;i<m;i++){
+                    arr[i][j] = 0;
+                }
             }
         }
     }
