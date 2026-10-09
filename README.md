@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
