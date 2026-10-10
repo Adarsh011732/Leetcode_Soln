@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
