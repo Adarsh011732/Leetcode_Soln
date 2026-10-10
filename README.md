@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Union-Find
 |  |
 | ------- |
