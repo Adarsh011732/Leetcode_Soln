@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0930-binary-subarrays-with-sum) |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0118-pascals-triangle) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
