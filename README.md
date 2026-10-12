@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
