@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
