@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0930-binary-subarrays-with-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0182-duplicate-emails) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
