@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0022-generate-parentheses) |
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Greedy
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0118-pascals-triangle) |
 ## Counting
 |  |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
