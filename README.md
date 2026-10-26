@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0202-happy-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
