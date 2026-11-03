@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0229-majority-element-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0904-fruit-into-baskets](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adarsh011732/Leetcode_Soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
